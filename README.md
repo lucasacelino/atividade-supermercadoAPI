@@ -1,0 +1,1 @@
+Aplicação que executa os endpoints de API que gerenica informações de um supermercado através do serviço REST utilizando Flask. 
